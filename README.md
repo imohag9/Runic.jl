@@ -1,6 +1,6 @@
 # Runic.jl
 
-*A code formatter with rules set in stone.*
+*A code formatter with rules set in stone.* 
 
 [![Test](https://github.com/fredrikekre/Runic.jl/actions/workflows/Test.yml/badge.svg?branch=master&event=push)](https://github.com/fredrikekre/Runic.jl/actions/workflows/Test.yml)
 [![codecov](https://codecov.io/gh/fredrikekre/Runic.jl/graph/badge.svg?token=GWKJKBZ5FB)](https://codecov.io/gh/fredrikekre/Runic.jl)
